@@ -285,6 +285,7 @@ body --> ...3
 p --> strong
 p --> ...4
 ```
+> Usei o [Mermaid](https://github.com/rlaunemacedo/estudos_js/blob/main/sobre_mermaid.md) para a construção deste diagrama.
 
 ### 5.1. Formas de acesso aos elementos
 
@@ -446,8 +447,6 @@ Neste caso, o argumento é uma string com:
 </body>
 </html>
 ```
-
-
 
 ## 6. Eventos DOM - Aula 11
 
