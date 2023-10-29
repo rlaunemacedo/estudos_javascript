@@ -1,10 +1,10 @@
 # Mermaid
 
-Typora also has integration with mermaid, which supports sequence diagrams, flowcharts, Gantt charts, class and state diagrams, and pie charts.
+Para editar este documento MarkDown, utilizei o programa Typora, vesão Linux.  O Typora também tem integração com mermaid, o qual suporta **sequence diagrams**, **flowcharts**, **Gantt charts**, **class state**, **diagrams** e **pie charts**.
 
-# Sequence Diagrams
+## Sequence Diagrams
 
-For more details see [these instructions](https://mermaid.js.org/syntax/sequenceDiagram.html).
+Para mais detalhes [visite este site](https://mermaid.js.org/syntax/sequenceDiagram.html).
 
     ```mermaid %% Example of sequence diagram
       sequenceDiagram
@@ -34,7 +34,7 @@ sequenceDiagram
 
 ## Flowcharts
 
-For more details see [these instructions](https://mermaid.js.org/syntax/flowchart.html).
+Para mais detalhes [visite este site](https://mermaid.js.org/syntax/flowchart.html).
 
     ```mermaid
     graph LR
@@ -54,7 +54,7 @@ A[Hard edge] -->B(Round edge)
 
 ## Gantt Charts
 
-For more details see [these instructions](https://mermaid.js.org/syntax/gantt.html).
+Para mais detalhes [visite este site](https://mermaid.js.org/syntax/gantt.html).
 
     ```mermaid %% Example with selection of syntaxes
             gantt
@@ -118,7 +118,7 @@ gantt
 
 ## Class Diagrams
 
-For more details see [these instructions](https://mermaid.js.org/syntax/classDiagram.html).
+Para mais detalhes [visite este site](https://mermaid.js.org/syntax/classDiagram.html).
 
     ```mermaid
     classDiagram
@@ -170,7 +170,7 @@ classDiagram
 
 # State Diagrams
 
-For more details see [these instructions](https://mermaid.js.org/syntax/stateDiagram.html).
+Para mais detalhes [visite este site](https://mermaid.js.org/syntax/stateDiagram.html).
 
     ```mermaid
     stateDiagram
@@ -195,6 +195,7 @@ stateDiagram
 ```
 
 # Pie Charts
+Para mais detalhes [visite este site](https://mermaid.js.org/syntax/pie.html)
 
     ```mermaid
     pie
