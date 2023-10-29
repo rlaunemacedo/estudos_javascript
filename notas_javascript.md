@@ -1,4 +1,4 @@
-# Notas de Java Script
+# Notas Sobre Java Script
 
 ## 1. Variáveis
 
