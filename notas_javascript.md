@@ -1,4 +1,7 @@
 # Notas Sobre Java Script
+**Por Raimundo Nonato Launé Macêdo**
+
+O que encontraremos aqui são pequenas notas sobre um estudo que iniciamos em outubro de 2023 sobre a linguagem JavaScript. Portanto o texto não está completo e será atualizado à medida que os estudos avançam. Espero que o que aqui anotei sirva de ajuda ao mesmo tempo em que sugestões e aclareamentos possam ser adicionados ao que percebemos com a máscara de nossa incapacidade.
 
 ## 1. Variáveis
 
