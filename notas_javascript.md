@@ -1029,7 +1029,8 @@ fatorial(6)		// retornará 720 (6 x fatorial(5))
 
 Vemos neste último código que há uma chamada função fatorial dentro dentro de si mesma. A isso chamamos **recursão** ou **recursividade**.
 
-### 11. String, Propuidades e seus Métodos 
+### 11. String, Propridades e seus Métodos 
+**Fonte da pesquisa:** [visite](https://www.w3schools.com/js/js_string_methods.asp)
 
 A partir da definição de uma **string**, podemos fazer diversas manipulações com seu conteúdo, esta seção foi dedicada a este estudo.
 
