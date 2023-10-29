@@ -3,6 +3,8 @@
 
 O que encontraremos aqui são pequenas notas sobre um estudo que iniciamos em outubro de 2023 sobre a linguagem JavaScript. Portanto o texto não está completo e será atualizado à medida que os estudos avançam. Espero que o que aqui anotei sirva de ajuda ao mesmo tempo em que sugestões e aclareamentos possam ser adicionados ao que percebemos com a máscara de nossa incapacidade.
 
+Quero destacar que as referências e links externos não representam propaganda aos aludidos mas tão somente reconhecimento e crédito à fonte dos conhecimentos. É assim que, quando ancontramos **Aula - ##**, quero referir ao número da aula do **Curso JavaScript** - [Curso em Vídeo](https://www.youtube.com/@CursoemVideo).
+
 ## 1. Variáveis
 
 ### 1.1. Number
