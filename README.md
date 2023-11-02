@@ -1,4 +1,4 @@
-# Meus estudos sobre Java Script
+# Meus estudos sobre JavaScript
 **Raimundo Nonato Launé Macêdo**
 
 Iniciei um estudo sobre a linguagem JavaScript em out/2023 e aqui pretendo tornar disponível os meus apontamentos sobre a decorrer dos estudos.
